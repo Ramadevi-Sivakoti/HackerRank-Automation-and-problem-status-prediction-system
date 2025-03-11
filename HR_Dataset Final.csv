@@ -1,0 +1,539 @@
+Accuracy,Max_Score,Difficulty,Problem status,Tags
+97.90%,1,1,Solved,hashtable
+94.44%,10,1,Solved,arrays
+95.73%,10,1,Solved,strings
+98.80%,10,1,Solved,math
+95.97%,10,1,Solved,dynamic programming
+98.38%,10,1,Solved,matrix
+98.36%,10,1,Solved,backtracking
+94.40%,10,1,Solved,sorting
+97.10%,10,1,Solved,math
+92.22%,15,1,Solved,two pointers
+96.46%,10,1,Solved,prefix sum
+96.30%,10,1,Solved,bit manipulation
+89.48%,10,1,Solved,backtracking
+90.73%,10,1,Solved,math
+98.53%,10,1,Solved,two pointers
+94.10%,10,1,Solved,prefix sum
+97.69%,10,1,Solved,dynamic programming
+90.50%,15,1,Solved,stack
+98.01%,10,1,Solved,matrix
+92.49%,10,1,Solved,math
+89.80%,10,1,Solved,two pointers
+95.04%,15,1,Solved,double linked list
+92.87%,15,1,Solved,double linked list
+98.00%,15,1,Solved,heap
+60.81%,20,2,Solved,hashtable
+98.85%,15,1,Solved,stack
+98.80%,20,1,Solved,strings
+97.87%,20,1,Solved,stack
+96.35%,20,1,Solved,recursion
+82.15%,15,1,Solved,prefix sum
+96.91%,25,1,Solved,matrix
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+96.35%,20,1,Solved,recursion
+82.15%,15,1,Solved,prefix sum
+96.91%,25,1,Solved,matrix
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+71.20%,15,3,Solved,arrays
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+71.20%,15,3,Solved,arrays
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+95.97%,10,1,Solved,dynamic programming
+98.38%,10,1,Solved,matrix
+98.36%,10,1,Solved,backtracking
+94.40%,10,1,Solved,sorting
+97.10%,10,1,Solved,math
+92.22%,15,1,Solved,two pointers
+96.46%,10,1,Solved,prefix sum
+96.30%,10,1,Solved,bit manipulation
+89.48%,10,1,Solved,backtracking
+90.73%,10,1,Solved,math
+98.53%,10,1,Solved,two pointers
+94.10%,10,1,Solved,prefix sum
+97.69%,10,1,Solved,dynamic programming
+90.50%,15,1,Solved,stack
+98.01%,10,1,Solved,matrix
+89.80%,10,1,Solved,two pointers
+95.04%,15,1,Solved,double linked list
+92.87%,15,1,Solved,double linked list
+98.00%,15,1,Solved,heap
+60.81%,20,2,Solved,hashtable
+98.85%,15,1,Solved,stack
+98.80%,20,1,Solved,strings
+97.87%,20,1,Solved,stack
+96.35%,20,1,Solved,recursion
+82.15%,15,1,Solved,prefix sum
+96.91%,25,1,Solved,matrix
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+96.35%,20,1,Solved,recursion
+82.15%,15,1,Solved,prefix sum
+96.91%,25,1,Solved,matrix
+98.53%,10,1,Solved,two pointers
+94.10%,10,1,Solved,prefix sum
+97.69%,10,1,Solved,dynamic programming
+90.50%,15,1,Solved,stack
+98.01%,10,1,Solved,matrix
+92.49%,10,1,Solved,math
+89.80%,10,1,Solved,two pointers
+95.04%,15,1,Solved,double linked list
+92.87%,15,1,Solved,double linked list
+98.00%,15,1,Solved,heap
+60.81%,20,2,Solved,hashtable
+98.85%,15,1,Solved,stack
+98.80%,20,1,Solved,strings
+97.87%,20,1,Solved,stack
+96.35%,20,1,Solved,recursion
+82.15%,15,1,Solved,prefix sum
+96.91%,25,1,Solved,matrix
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+96.35%,20,1,Solved,recursion
+82.15%,15,1,Solved,prefix sum
+96.91%,25,1,Solved,matrix
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+71.20%,15,3,Solved,arrays
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+90.77%,35,1,Solved,arrays
+71.20%,15,3,Solved,arrays
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+95.97%,10,1,Solved,dynamic programming
+98.38%,10,1,Solved,matrix
+98.36%,10,1,Solved,backtracking
+94.40%,10,1,Solved,sorting
+97.10%,10,1,Solved,math
+92.22%,15,1,Solved,two pointers
+96.46%,10,1,Solved,prefix sum
+96.30%,10,1,Solved,bit manipulation
+89.48%,10,1,Solved,backtracking
+90.73%,10,1,Solved,math
+98.53%,10,1,Solved,two pointers
+94.10%,10,1,Solved,prefix sum
+97.69%,10,1,Solved,dynamic programming
+90.50%,15,1,Solved,stack
+98.01%,10,1,Solved,matrix
+89.80%,10,1,Solved,two pointers
+95.04%,15,1,Solved,double linked list
+92.87%,15,1,Solved,double linked list
+98.00%,15,1,Solved,heap
+60.81%,20,2,Solved,hashtable
+98.85%,15,1,Solved,stack
+98.80%,20,1,Solved,strings
+97.87%,20,1,Solved,stack
+96.35%,20,1,Solved,recursion
+82.15%,15,1,Solved,prefix sum
+96.91%,25,1,Solved,matrix
+86.91%,20,1,Solved,backtracking
+89.70%,15,1,Solved,stack
+94.73%,20,1,Solved,strings
+90.74%,20,1,Solved,sorting
+93.51%,20,1,Solved,strings
+90.54%,20,1,Solved,strings
+98.38%,30,1,Solved,heap
+98.05%,15,1,Solved,heap
+87.97%,30,1,Solved,heap
+85.87%,15,1,Solved,strings
+97.23%,30,1,Solved,backtracking
+98.29%,30,1,Solved,bit manipulation
+86.60%,15,1,Solved,searching
+93.87%,15,1,Solved,two pointers
+95.90%,30,1,Solved,math
+94.64%,25,1,Solved,backtracking
+97.07%,30,1,Solved,matrix
+97.44%,20,1,Solved,searching
+94.82%,20,1,Solved,recursion
+96.35%,20,1,Solved,recursion
+92.81%,30,2,TryAgain,matrix
+77.43%,40,2,TryAgain,linked lists
+73.14%,40,2,TryAgain,trees
+68.52%,40,2,TryAgain,math
+83.40%,40,2,TryAgain,prefix sum
+75.23%,50,2,TryAgain,searching
+79.94%,80,4,TryAgain,math
+65.57%,20,1,TryAgain,strings
+87.20%,10,1,TryAgain,dynamic programming
+79.77%,20,1,TryAgain,trees
+92.34%,20,1,TryAgain,heap
+96.12%,10,1,TryAgain,two pointers
+94.86%,20,1,TryAgain,math
+75.13%,20,1,TryAgain,matrix
+89.76%,20,1,TryAgain,matrix
+95.38%,30,1,TryAgain,hashtable
+93.58%,20,1,TryAgain,double linked list
+84.26%,40,2,TryAgain,heap
+88.78%,35,1,Unsolved,strings
+96.93%,20,1,TryAgain,recursion
+38.52%,50,4,Unsolved,double linked list
+38.34%,50,4,TryAgain,bit manipulation
+69.26%,25,1,TryAgain,heap
+44.41%,40,2,Unsolved,stack
+93.56%,30,1,TryAgain,strings
+56.50%,40,2,Unsolved,strings
+93.72%,30,1,Unsolved,searching
+90.38%,25,1,TryAgain,trees
+65.96%,35,2,TryAgain,dynamic programming
+56.52%,30,2,Unsolved,arrays
+50.14%,40,2,Unsolved,dynamic programming
+88.90%,50,2,Unsolved,recursion
+59.77%,60,2,TryAgain,arrays
+68.52%,50,2,Unsolved,backtracking
+51.90%,100,4,Unsolved,stack
+86.86%,80,3,Unsolved,stack
+62.35%,80,4,Unsolved,arrays
+64.51%,80,4,Unsolved,backtracking
+47.92%,80,3,Unsolved,searching
+63.40%,80,3,Unsolved,strings
+77.43%,85,5,Unsolved,trees
+63.57%,100,4,Unsolved,searching
+40.32%,100,4,Unsolved,hashtable
+64.10%,80,4,Unsolved,linked lists
+69.87%,120,4,Unsolved,backtracking
+57.30%,85,4,Unsolved,stack
+40.99%,100,5,Unsolved,sorting
+49.44%,100,5,Unsolved,strings
+79.06%,100,5,Unsolved,heap
+64.13%,150,4,Unsolved,matrix
+84.83%,100,5,Unsolved,double linked list
+71.62%,100,5,Unsolved,stack
+77.45%,100,5,Unsolved,bit manipulation
+35.64%,100,5,Unsolved,backtracking
+67.40%,25,2,Unsolved,trees
+44.52%,25,2,Unsolved,prefix sum
+93.08%,30,1,Unsolved,heap
+87.11%,35,4,Unsolved,dynamic programming
+63.78%,35,2,Unsolved,dynamic programming
+83.74%,45,1,Unsolved,dynamic programming
+78.29%,50,2,Unsolved,hashtable
+82.04%,40,1,Unsolved,linked lists
+37.43%,65,4,Unsolved,dynamic programming
+87.77%,50,2,Unsolved,stack
+63.01%,40,2,Unsolved,recursion
+56.14%,70,3,Unsolved,linked lists
+87.10%,50,4,Unsolved,strings
+71.02%,50,4,Unsolved,sorting
+61.59%,45,4,Unsolved,prefix sum
+72.78%,50,2,Unsolved,bit manipulation
+56.16%,50,4,Unsolved,hashtable
+85.18%,60,4,Unsolved,linked lists
+56.96%,65,3,Unsolved,backtracking
+60.69%,70,4,Unsolved,recursion
+52.14%,70,4,Unsolved,math
+37.23%,70,3,Unsolved,trees
+85.90%,80,5,Unsolved,prefix sum
+44.52%,80,3,Unsolved,heap
+69.29%,80,5,Unsolved,matrix
+72.80%,80,3,Unsolved,dynamic programming
+60.17%,65,3,Unsolved,strings
+66.90%,30,2,Unsolved,matrix
+62.65%,50,2,Unsolved,stack
+63.87%,40,4,Unsolved,hashtable
+73.42%,50,4,Unsolved,linked lists
+79.19%,55,2,Unsolved,math
+84.06%,50,2,Unsolved,two pointers
+89.29%,50,2,Unsolved,matrix
+80.03%,50,2,Unsolved,searching
+56.18%,60,4,Unsolved,strings
+59.27%,50,4,Unsolved,stack
+84.87%,60,2,Unsolved,hashtable
+75.42%,60,3,Unsolved,searching
+67.81%,60,3,Unsolved,stack
+60.78%,60,4,Unsolved,double linked list
+56.52%,50,4,Unsolved,searching
+66.88%,50,3,Unsolved,heap
+66.34%,55,3,Unsolved,bit manipulation
+81.33%,80,5,Unsolved,stack
+77.48%,80,5,Unsolved,matrix
+68.95%,80,2,Unsolved,trees
+84.37%,50,4,Unsolved,two pointers
+89.70%,70,4,Unsolved,strings
+78.83%,80,4,Unsolved,hashtable
+82.84%,75,4,Unsolved,backtracking
+56.94%,60,4,Unsolved,prefix sum
+63.98%,75,3,Unsolved,two pointers
+49.30%,80,3,Unsolved,prefix sum
+65.63%,70,4,Unsolved,trees
+21.01%,80,3,Unsolved,strings
+81.27%,75,3,Unsolved,bit manipulation
+65.77%,70,3,Unsolved,prefix sum
+80.15%,70,3,Unsolved,backtracking
+65.06%,80,3,Unsolved,hashtable
+65.50%,90,3,Unsolved,heap
+80.36%,90,3,Unsolved,prefix sum
+64.51%,75,3,Unsolved,recursion
+87.44%,90,3,Unsolved,matrix
+79.27%,85,4,Unsolved,heap
+80.80%,80,4,Unsolved,stack
+74.51%,80,3,Unsolved,matrix
+71.70%,80,3,Unsolved,sorting
+58.26%,80,5,Unsolved,math
+61.45%,95,4,Unsolved,recursion
+69.81%,80,4,Unsolved,sorting
+52.75%,100,4,Unsolved,hashtable
+71.39%,100,3,Unsolved,arrays
+70.62%,100,3,Unsolved,stack
+73.54%,100,5,Unsolved,trees
+84.91%,120,3,Unsolved,two pointers
+76.12%,80,3,Unsolved,math
+81.42%,80,3,Unsolved,matrix
+88.42%,150,5,Unsolved,sorting
+91.39%,100,5,Unsolved,bit manipulation
+79.72%,90,5,Unsolved,recursion
+64.67%,100,5,Unsolved,matrix
+80.04%,90,5,Unsolved,stack
+57.76%,100,5,Unsolved,two pointers
+83.14%,100,4,Unsolved,matrix
+73.62%,100,5,Unsolved,matrix
+86.36%,100,5,Unsolved,heap
+83.13%,100,5,Unsolved,heap
+88.48%,100,5,Unsolved,matrix
+87.35%,100,5,Unsolved,hashtable
+86.92%,15,1,Unsolved,trees
+96.45%,15,1,Unsolved,arrays
+83.61%,20,1,Unsolved,prefix sum
+93.12%,20,1,Unsolved,linked lists
+91.03%,20,1,Unsolved,backtracking
+77.04%,30,1,Unsolved,prefix sum
+68.15%,50,2,Unsolved,recursion
+82.76%,30,1,Unsolved,two pointers
+92.19%,30,1,Unsolved,linked lists
+63.14%,30,1,Unsolved,matrix
+93.76%,35,1,Unsolved,prefix sum
+93.95%,35,2,Unsolved,bit manipulation
+85.68%,35,2,Unsolved,searching
+88.87%,40,1,Unsolved,bit manipulation
+94.41%,40,1,Unsolved,matrix
+76.98%,60,4,Unsolved,arrays
+56.96%,50,4,Unsolved,searching
+71.43%,40,2,Unsolved,searching
+44.40%,45,4,Unsolved,hashtable
+78.70%,65,4,Unsolved,hashtable
+54.87%,70,4,Unsolved,strings
+52.16%,60,3,Unsolved,bit manipulation
+44.40%,70,4,Unsolved,double linked list
+59.05%,80,3,Unsolved,trees
+63.88%,30,4,Unsolved,stack
+79.84%,60,2,Unsolved,trees
+56.35%,30,2,Unsolved,strings
+91.17%,30,2,Unsolved,bit manipulation
+68.24%,50,2,Unsolved,math
+76.93%,35,2,Unsolved,prefix sum
+67.36%,40,2,Unsolved,bit manipulation
+68.50%,35,2,Unsolved,heap
+50.71%,50,4,Unsolved,linked lists
+62.55%,50,4,Unsolved,strings
+68.38%,60,3,Unsolved,dynamic programming
+59.71%,40,2,Unsolved,two pointers
+61.83%,60,3,Unsolved,dynamic programming
+80.75%,45,2,Unsolved,linked lists
+74.23%,60,3,Unsolved,backtracking
+45.42%,40,2,Unsolved,prefix sum
+70.08%,70,5,Unsolved,sorting
+58.45%,50,4,Unsolved,two pointers
+83.45%,80,4,Unsolved,two pointers
+68.08%,80,4,Unsolved,dynamic programming
+58.87%,60,3,Unsolved,trees
+60.54%,40,4,Unsolved,dynamic programming
+76.49%,50,2,Unsolved,arrays
+50.95%,50,3,Unsolved,strings
+78.02%,60,3,Unsolved,heap
+58.24%,50,4,Unsolved,bit manipulation
+82.49%,50,4,Unsolved,double linked list
+64.14%,40,4,Unsolved,math
+54.93%,40,4,Unsolved,two pointers
+69.37%,60,4,Unsolved,sorting
