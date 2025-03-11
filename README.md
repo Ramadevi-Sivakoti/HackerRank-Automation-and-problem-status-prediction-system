@@ -15,13 +15,12 @@ Rnking relative to other users.
 
 
 
+
+
 Technologies used
 
+Selenium:  Allows developers and testers to write test scripts in various programming languages.
 
+Microsoft azure ML:  Azure ML offers an integrated environment for data  developers to build machine learning models.
 
-
-Selenium:Allows developers and testers to write test scripts in various programming languages.
-
-Microsoft azure ML:Azure ML offers an integrated environment for data  developers to build machine learning models.
-
-Mchine Learning:ML algorithms can analyze large datasets to identify patterns, trends.
+Mchine Learning:  ML algorithms can analyze large datasets to identify patterns, trends.
